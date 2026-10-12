@@ -1,0 +1,9 @@
+{
+  "name": "confound-tools",
+  "version": "1.0.0",
+  "description": "Stress-test experiment results for confounds before you believe or share them: a confound-check skill plus an independent confound-reviewer agent.",
+  "author": { "name": "Michael Kenney" },
+  "repository": "https://github.com/mkenney2/confound-tools",
+  "license": "MIT",
+  "keywords": ["research", "experiments", "confounds", "review"]
+}

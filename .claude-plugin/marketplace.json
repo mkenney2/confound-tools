@@ -1,0 +1,15 @@
+{
+  "name": "confound-tools",
+  "description": "Tools for checking experiment results for confounds before sharing them.",
+  "owner": {
+    "name": "Michael Kenney"
+  },
+  "plugins": [
+    {
+      "name": "confound-tools",
+      "source": "./",
+      "description": "Stress-test experiment results for confounds: a confound-check skill plus a confound-reviewer agent.",
+      "version": "1.0.0"
+    }
+  ]
+}
